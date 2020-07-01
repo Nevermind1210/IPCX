@@ -1,0 +1,13 @@
+﻿  EntityDisplayApp.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 459 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+raylib.lib(core.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(core.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\IPC\IPC\bin\x64\Release\raylib.pdb'; linking object as if no debug info
+raylib.lib(shapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(shapes.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\IPC\IPC\bin\x64\Release\raylib.pdb'; linking object as if no debug info
+raylib.lib(text.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(text.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\IPC\IPC\bin\x64\Release\raylib.pdb'; linking object as if no debug info
+raylib.lib(rglfw.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rglfw.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\IPC\IPC\bin\x64\Release\raylib.pdb'; linking object as if no debug info
+raylib.lib(textures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(textures.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\IPC\IPC\bin\x64\Release\raylib.pdb'; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\IPC\IPC\bin\x64\Release\raylib.pdb'; linking object as if no debug info
+  CDDS_IPC_EntityDisplay.vcxproj -> C:\Users\justi\OneDrive\Desktop\Repos\IPC\IPC\bin\x64\Release\CDDS_IPC_EntityDisplay.exe
